@@ -23,6 +23,7 @@ PyYAML==5.4.1
 regex==2020.11.13
 scipy==1.5.4
 six==1.15.0
+setuptools==39.1.0
 smart-open==4.2.0
 tensorboard==1.9.0
 tensorflow==1.9.0
